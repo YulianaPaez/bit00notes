@@ -1,5 +1,5 @@
+
 # bit00notes
-# Titulo
 Repositorio bit00notes
 ## Descripccion 
 Este es el primer repositorio realizado, titulo descripccion y autor
